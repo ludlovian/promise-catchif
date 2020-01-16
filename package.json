@@ -1,6 +1,6 @@
 {
   "name": "promise-catchif",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds catchif to promises",
   "main": "dist/index.js",
   "scripts": {
